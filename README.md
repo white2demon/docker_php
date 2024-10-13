@@ -1,1 +1,1 @@
-nginx + php + mysql + phpmyadmin
+<h1 align="center">Каркас проекта для Docker + PHP + MySQL</h1>
